@@ -18,4 +18,5 @@ dependencies {
     implementation("io.cucumber:cucumber-java:7.23.0")
     // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
     implementation("org.seleniumhq.selenium:selenium-java:4.34.0")
+    testImplementation("org.junit.jupiter:junit-jupiter-engine:5.13.3")
 }
